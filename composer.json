@@ -1,0 +1,11 @@
+{
+	"name": "webchemistry/redis-cache",
+	"autoload": {
+		"psr-4": {
+			"WebChemistry\\RedisCache\\": "src"
+		}
+	},
+	"require": {
+		"php": ">= 8.0"
+	}
+}
